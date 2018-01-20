@@ -1,0 +1,5 @@
+C:\Users\TBENER\Documents\GitHub\TalUtils\bin\Debug\TalUtils.dll
+C:\Users\TBENER\Documents\GitHub\TalUtils\bin\Debug\TalUtils.pdb
+C:\Users\TBENER\Documents\GitHub\TalUtils\obj\Debug\TalUtils.csprojResolveAssemblyReference.cache
+C:\Users\TBENER\Documents\GitHub\TalUtils\obj\Debug\TalUtils.dll
+C:\Users\TBENER\Documents\GitHub\TalUtils\obj\Debug\TalUtils.pdb
